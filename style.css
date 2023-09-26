@@ -38,6 +38,22 @@ h1 {
   margin-left: 36px;
 }
 
+#container-left h2 {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  margin-top: 12px;
+  margin-left: 36px;
+}
+
+#container-left p {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 12px;
+  margin-left: 36px;
+}
+
 #container-right {
   width: 50%;
   height: 100%;
