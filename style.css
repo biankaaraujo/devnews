@@ -35,6 +35,14 @@ h6 {
   margin-left: 30px;
 }
 
+#container-left h1 {
+  color: #08c05e;
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 92px;
+  margin-left: 36px;
+}
+
 #container-right {
   width: 50%;
   height: 100%;
