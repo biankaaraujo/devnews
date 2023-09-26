@@ -23,7 +23,7 @@ h1 {
   background: black;
 }
 
-#container-left img {
+#container-left #logo {
   width: 389px;
   height: 94px;
   margin-top: 50px;
@@ -64,6 +64,7 @@ h1 {
 #form input {
   font-family: "Work Sans", sans-serif;
   font-size: 12px;
+  font-weight: 400;
   width: 750px;
   height: 48px;
   margin-top: 17px;
@@ -86,6 +87,26 @@ h1 {
 
 #form button:hover {
   cursor: pointer;
+}
+
+#container-left a {
+  display: inline-block;
+  margin-top: 52px;
+  margin-left: 36px;
+  font-size: 14px;
+  font-weight: 700;
+  color: #8257e5;
+  text-decoration: none;
+}
+
+#container-left a span {
+  vertical-align: middle;
+}
+
+#container-left a img {
+  width: 24px;
+  margin-left: 5px;
+  vertical-align: middle;
 }
 
 #container-right {
