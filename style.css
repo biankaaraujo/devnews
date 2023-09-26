@@ -8,6 +8,11 @@ body * {
   font-family: "League Spartan", sans-serif;
 }
 
+body {
+  display: flex;
+  height: 100vh;
+}
+
 h1,
 h2,
 h3,
@@ -15,4 +20,19 @@ h4,
 h5,
 h6 {
   font-family: "Work Sans", sans-serif;
+}
+
+#container-left {
+  width: 50%;
+  height: 100%;
+  background: black;
+}
+
+#container-right {
+  width: 50%;
+  height: 100%;
+  background-image: url(./assets/read_news.jpg);
+  background-position: 70%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
