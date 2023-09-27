@@ -33,11 +33,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevNews é uma página para captação de leads ou newsletter.
 
-Você pode visualizar o site através [DESSE LINK](https://biankaaraujo.github.io/devnews/).
+Você pode visualizar o site através
+<a href="https://biankaaraujo.github.io/devnews/" target="_blank">DESSE LINK</a>.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1241119530230478440). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através
+<a href="https://www.figma.com/community/file/1241119530230478440" target="_blank">DESSE LINK</a>. É necessário ter conta no
+<a href="https://figma.com" target="_blank">Figma</a> para acessá-lo.
 
 ## :memo: Licença
 
