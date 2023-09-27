@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevNews é uma página para captação de leads ou newsletter.
 
-Você pode visualizar o site através [DESSE LINK]().
+Você pode visualizar o site através [DESSE LINK](https://biankaaraujo.github.io/devnews/).
 
 ## 🔖 Layout
 
